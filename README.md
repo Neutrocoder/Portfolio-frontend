@@ -18,6 +18,6 @@ I am always striving to expand my skillset and keep up with the latest industry 
 
 ## 📫 Contact
 
-- Feel free to connect with me on LinkedIn: [@Neutrocoder](www.linkedin.com/in/luis-medina-13343a260)
+- Feel free to connect with me on LinkedIn: [@Neutrocoder](www.linkedin.com/in/neutrocoder)
 
 Thank you for visiting my profile! I'm looking forward to exploring new opportunities and engaging with the GitHub community. Keep coding and never stop learning! 😄
