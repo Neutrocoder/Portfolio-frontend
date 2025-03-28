@@ -16,8 +16,4 @@ Below is an overview of my key skills:
 
 I am always striving to expand my skillset and keep up with the latest industry standards and trends. Furthermore, I am open to learning new technologies and collaborating on diverse, exciting projects.
 
-## 📫 Contact
 
-- Feel free to connect with me on LinkedIn: [@Neutrocoder](www.linkedin.com/in/neutrocoder)
-
-Thank you for visiting my profile! I'm looking forward to exploring new opportunities and engaging with the GitHub community. Keep coding and never stop learning! 😄
