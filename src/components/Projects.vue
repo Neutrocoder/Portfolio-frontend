@@ -70,7 +70,7 @@ export default {
                 {
                     name: 'Manage',
                     description: 'Landing Page de Herramienta de gestión de proyectos con tareas y seguimiento de progreso.',
-                    image: '/gitmanage.png',
+                    image: '/manage.png',
                     link: '#',
                     preview: '#',
                     technologies: ['Vue', 'Tailwind',],
