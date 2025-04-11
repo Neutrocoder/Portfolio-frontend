@@ -1,25 +1,21 @@
-<template>
-  <section class="min-h-screen flex flex-col md:flex-row  items-center justify-center text-center md:text-left gap-8 px-6 md:px-20 mt-10">
-    <!-- Imagen -->
-    <div class="w-35 h-35 md:w-56 md:h-56 rounded-full overflow-hidden shadow-lg justify-center items-center flex">
-      <img src="../assets/img/imageprofile.jpg" alt="Luis Medina Hero image" class="w-full h-full object-cover">
-    </div>
 
+<template>
+  <section id="inicio" class="min-h-screen flex flex-col md:flex-row items-center justify-center text-center md:text-center gap-8 px-6 md:px-20">
     <!-- Texto del hero -->
     <div class="max-w-lg">
-      <h1 class="text-3xl md:text-4xl font-bold text-ligth leading-tight">
+      <h1 class="text-3xl md:text-4xl font-bold text-white leading-tight">
         Hola, soy <span class="text-accent">Luis Medina</span>, desarrollador frontend.
       </h1>
-      <p class="text-lg text-ligth mt-4">
-        Transformo ideas en experiencias digitales funcionales y atractivas. Especializado en diseño web y desarrollo frontend.
+      <p class="text-lg text-white/80 mt-4">
+        Transformo ideas en experiencias digitales funcionales y atractivas. Especializado en diseño y desarrollo web.
       </p>
 
-      <!-- Botones + Iconos Redes Sociales  -->
-      <div class="mt-6 flex flex-col md:flex-row items-center gap-4">
-        <a href="" class="border-accent border-2 text-white px-5 py-3 rounded-lg shadow-md  md:hover:bg-accent transition duration-300">
-          Listo para trabajar 
-        </a>
-      </div>
+      <!-- Botón CTA -->
+        <div class="mt-8 flex justify-center md:justify-center">
+          <a href="https://www.linkedin.com/in/neutrocoder" target="_blank" class="relative z-10 border-2 border-accent text-white px-6 py-3 rounded-lg shadow-md transition-all duration-300 ease-in-out hover:bg-accent hover:text-light hover:scale-105 focus:ring-2 focus:ring-accent focus:ring-offset-2">
+            Listo para trabajar
+          </a>
+        </div>
     </div>
   </section>
 </template>

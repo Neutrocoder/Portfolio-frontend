@@ -11,3 +11,7 @@
   /* font */
   --font-Poppins: "Poppins", sans-serif;
 }
+
+html {
+  scroll-behavior: smooth;
+}
