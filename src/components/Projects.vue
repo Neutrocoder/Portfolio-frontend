@@ -54,7 +54,7 @@ export default {
                 {
                     name: 'EasyBank',
                     description: 'Landing page para un banco digital, con diseño moderno y responsive.',
-                    image: 'easybank.png',
+                    image: '/easybank.png',
                     link: '#',
                     preview: '#',
                     technologies: ['Vue', 'Tailwind',],
@@ -62,7 +62,7 @@ export default {
                 {
                     name: 'Bookmark',
                     description: 'Landing Page de Aplicación para guardar y organizar enlaces web de manera sencilla.',
-                    image: 'bookmark.png',
+                    image: '/bookmark.png',
                     link: '#',
                     preview: '#',
                     technologies: ['Vue', 'Tailwind','Astro',],
@@ -70,7 +70,7 @@ export default {
                 {
                     name: 'Manage',
                     description: 'Landing Page de Herramienta de gestión de proyectos con tareas y seguimiento de progreso.',
-                    image: 'manage.png',
+                    image: '/manage.png',
                     link: '#',
                     preview: '#',
                     technologies: ['Vue', 'Tailwind',],
