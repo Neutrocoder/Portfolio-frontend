@@ -16,9 +16,6 @@
             <li>
               <a href="tel:+1234567890" class="hover:underline">+52 33 3237 8776</a>
             </li>
-            <li>
-              <a href="https://www.google.com/maps" target="_blank" class="hover:underline">Nuestra dirección</a>
-            </li>
           </ul>
         </div>
 
